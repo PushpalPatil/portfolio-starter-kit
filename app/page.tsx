@@ -4,14 +4,15 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        My Portfolio
+        Pushpal's Pages
       </h1>
       <p className="mb-4">
-        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
-        Vim's keystroke commands and tabs' flexibility for personal viewing
-        preferences. This extends to my support for static typing, where its
-        early error detection ensures cleaner code, and my preference for dark
-        mode, which eases long coding sessions by reducing eye strain.`}
+        {`Hey! I'm Pushpal. 
+        
+        I'm doing the Fractal Bootcamp this summer and here's my diary for the 3 months I'm here.
+        
+        I'm excited to share the variety of ups and downs here, 
+        hope you enjoy the read and maybe even learn something from this :}`}
       </p>
       <div className="my-8">
         <BlogPosts />
