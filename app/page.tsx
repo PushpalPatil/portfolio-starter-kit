@@ -9,7 +9,11 @@ export default function Page() {
       <p className="mb-4">
         {`Hey! I'm Pushpal. 
         
-        I'm doing the Fractal Bootcamp this summer and here's my diary for the 3 months I'm here.
+        I did my undergrad, and am currently doing my masters in Software Engineering at San Jose State University. 
+
+        I'm at Fractal to learn to trust myself as an engineer/designer. 
+
+        This is my diary for the 3 months I'm here. 
         
         I'm excited to share the variety of ups and downs here, 
         hope you enjoy the read and maybe even learn something from this :}`}
